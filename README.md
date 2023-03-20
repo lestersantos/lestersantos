@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+### I am Lester Ajucum current student of the Science and System Engineering program seeking an entry level position in the Information and Technology industry along with a company where I can continuously develop my career and to help the organization meet its mission and goals.
+
 <!--
 **lestersantos/lestersantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
